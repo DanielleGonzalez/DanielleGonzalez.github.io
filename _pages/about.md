@@ -12,7 +12,7 @@ redirect_from:
 
 [Curriculum Vitae](files/DanielleGonzalez_Nov2020_CV.pdf){:target="_blank"}
 
-My name is **Danielle Gonzalez**; I am a PhD candidate at Rochester Institute of Technology (RIT) in Rochester, NY. I am currently funded by a [Microsoft PhD Fellowship](https://www.rit.edu/news/graduate-student-receives-prestigious-microsoft-fellowship), awarded in 2019.
+My name is **Danielle Gonzalez**; I am a PhD candidate at Rochester Institute of Technology (RIT) in Rochester, NY. I am currently funded by a [Microsoft PhD Fellowship](https://www.rit.edu/news/graduate-student-receives-prestigious-microsoft-fellowship){:target="_blank"}, awarded in 2019.
 ## Research Interests
 Using **mixed empirical software engineering research** methods, I aim to **produce supportive, actionable resources and insights for developers and teams driven by observation of real practices and investigations into the sociotechnical factors** that affect each lifecycle phase. 
 
@@ -42,7 +42,7 @@ International Conference on Automated Software Engineering, September
 Zimmermann, and Nachiappan Nagappan. *"The State of the ML-universe: 10
 Years of Artificial Intelligence & Machine Learning Software Development
 on GitHub.\"* In Proceedings of the 17th International Conference on
-Mining Software Repositories, pp. 431-442. 2020. [Paper](https://doi.org/10.1145/3379597.3387473), [Preprint](https://www.microsoft.com/en-us/research/publication/the-state-of-the-ml-universe-10-years-of-artificial-intelligence-machine-learning-software-development-on-github/), [Recorded Talk](https://www.youtube.com/watch?v=rliaasVNzB0), [Supplement](https://doi.org/10.5281/zenodo.3722450)
+Mining Software Repositories, pp. 431-442. 2020. [Paper](https://doi.org/10.1145/3379597.3387473){:target="_blank"}, [Preprint](https://www.microsoft.com/en-us/research/publication/the-state-of-the-ml-universe-10-years-of-artificial-intelligence-machine-learning-software-development-on-github/){:target="_blank"}, [Recorded Talk](https://www.youtube.com/watch?v=rliaasVNzB0){:target="_blank"}, [Supplement](https://doi.org/10.5281/zenodo.3722450){:target="_blank"}
 
 **Danielle Gonzalez**, Michael Rath,
 and Mehdi Mirakhorli. *"Did You Remember To Test Your Tokens?.\"* In
