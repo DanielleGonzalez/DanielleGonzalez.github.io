@@ -64,7 +64,7 @@ Maintenance and Evolution (ICSME), pp. 135-139. IEEE, 2019. [Paper](https://doi.
 Prentice, and Mehdi Mirakhorli. *"A fine-grained approach for automated
 conversion of JUnit assertions to English.\"* In Proceedings of the 4th
 ACM SIGSOFT International Workshop on NLP for Software Engineering, pp.
-14-17. 2018. [Paper](https://doi.org/10.1145/3283812.3283819){:target="_blank"}, [Preprint](https://arxiv.org/abs/1811.05005){:target="_blank"}[Tool](https://doi.org/10.5281/zenodo.1482013){:target="_blank"}
+14-17. 2018. [Paper](https://doi.org/10.1145/3283812.3283819){:target="_blank"}, [Preprint](https://arxiv.org/abs/1811.05005){:target="_blank"}, [Tool](https://doi.org/10.5281/zenodo.1482013){:target="_blank"}
 
 **Danielle Gonzalez**, Joanna CS Santos,
 Andrew Popovich, Mehdi Mirakhorli, and Mei Nagappan. *"A large-scale
