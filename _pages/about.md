@@ -25,11 +25,11 @@ I am particularly interested in:
 
 To study development practices, I build **automated tools to mine and analyze artifacts from software repositories** and use **inductive analysis techniques** to systematically develop theories and synthesize data into forms usable by developers. Further, I conduct **interviews and human subject evaluations** to understand developer's perspectives as well as validate the usefulness and accuracy of my research outcomes. 
 ## Publications
-**Danielle Gonzalez**, Thomas Zimmermann,
+<!-- **Danielle Gonzalez**, Thomas Zimmermann,
 Patrice Godefroid, Max Schäfer. *"Anomalicious: Automated Detection of
 Anomalous and Potentially Malicious Commits on GitHub\"* **[Under
 Review for]** 43rd IIEEE/ACM International Conference on Software
-Engineering (SEiP Track), May 23--29, 2021. 
+Engineering (SEiP Track), May 23--29, 2021.  -->
 
 Devjeet Roy, Ziyi Zhang, Maggie Ma, Venera
 Arnaoudova, Annibale Panichella, Sebastiano Panichella, **Danielle
