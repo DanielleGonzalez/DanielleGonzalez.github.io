@@ -53,7 +53,7 @@ Repositories, pp. 232-242. 2020. [Paper](https://doi.org/10.1145/3379597.3387471
 Mehdi Mirakhorli. *"Architectural security weaknesses in industrial
 control systems (ICS) an empirical study based on disclosed software
 vulnerabilities.\"* In 2019 IEEE International Conference on Software
-Architecture (ICSA), pp. 31-40. IEEE, 2019. [Paper](https://doi.org/10.1109/icsa.2019.00012){:target="_blank"}, [Preprint](https://design.se.rit.edu/papers/ICS_Vulnerabilities.pdf){:target="_blank"}, [IEEE Software Blog Post](https://blog.ieeesoftware.org/2019/01/architectural-security-weaknesses-in.html){:target="_blank"}, [Slides](https://www.slideshare.net/DanielleGonzalez25/icsa-2019-architectural-security-weaknesses-in-industrial-control-systems-13861907){:target="_blank"}, [Supplement](https://zenodo.org/record/3726261){:target="_blank"}
+Architecture (ICSA), pp. 31-40. IEEE, 2019. [Paper](https://doi.org/10.1109/icsa.2019.00012){:target="_blank"}, [Preprint](https://design.se.rit.edu/papers/ICS_Vulnerabilities.pdf){:target="_blank"}, [IEEE Software Blog Post](https://blog.ieeesoftware.org/2019/01/architectural-security-weaknesses-in.html){:target="_blank"}, [Slides](https://www.slideshare.net/DanielleGonzalez25/icsa-2019-architectural-security-weaknesses-in-industrial-control-systems-138619072){:target="_blank"}, [Supplement](https://zenodo.org/record/3726261){:target="_blank"}
 
 **Danielle Gonzalez**, Holly Hastings,
 and Mehdi Mirakhorli. *"Automated Characterization of Software
