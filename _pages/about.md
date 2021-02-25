@@ -10,9 +10,10 @@ redirect_from:
 
 # I am on the 2021 job market!
 
-[Curriculum Vitae](files/DanielleGonzalez_Nov2020_CV.pdf){:target="_blank"}
+[Curriculum Vitae](files/DanielleGonzalez_Feb2021_CV.pdf){:target="_blank"}
 
 My name is **Danielle Gonzalez**; I am a PhD candidate at Rochester Institute of Technology (RIT) in Rochester, NY. I am currently funded by a [Microsoft PhD Fellowship](https://www.rit.edu/news/graduate-student-receives-prestigious-microsoft-fellowship){:target="_blank"}, awarded in 2019.
+
 ## Research Interests
 Using **mixed empirical software engineering research** methods, I aim to **produce supportive, actionable resources and insights for developers and teams driven by observation of real practices and investigations into the sociotechnical factors** that affect each lifecycle phase. 
 
@@ -25,11 +26,10 @@ I am particularly interested in:
 
 To study development practices, I build **automated tools to mine and analyze artifacts from software repositories** and use **inductive analysis techniques** to systematically develop theories and synthesize data into forms usable by developers. Further, I conduct **interviews and human subject evaluations** to understand developer's perspectives as well as validate the usefulness and accuracy of my research outcomes. 
 ## Publications
-<!-- **Danielle Gonzalez**, Thomas Zimmermann,
+**Danielle Gonzalez**, Thomas Zimmermann,
 Patrice Godefroid, Max Schäfer. *"Anomalicious: Automated Detection of
-Anomalous and Potentially Malicious Commits on GitHub\"* **[Under
-Review for]** 43rd IIEEE/ACM International Conference on Software
-Engineering (SEiP Track), May 23--29, 2021.  -->
+Anomalous and Potentially Malicious Commits on GitHub\"* **[To Appear]** 43rd IIEEE/ACM International Conference on Software
+Engineering (SEiP Track), May 23--29, 2021. 
 
 Devjeet Roy, Ziyi Zhang, Maggie Ma, Venera
 Arnaoudova, Annibale Panichella, Sebastiano Panichella, **Danielle
