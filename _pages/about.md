@@ -12,7 +12,7 @@ redirect_from:
 
 [Curriculum Vitae](files/DanielleGonzalez_Feb2021_CV.pdf){:target="_blank"}
 
-My name is **Danielle Gonzalez**; I am a PhD candidate at Rochester Institute of Technology (RIT) in Rochester, NY. I am currently funded by a [Microsoft PhD Fellowship](https://www.rit.edu/news/graduate-student-receives-prestigious-microsoft-fellowship){:target="_blank"}, awarded in 2019.
+My name is **Danielle Gonzalez** (She/Her) and I am a PhD candidate at Rochester Institute of Technology (RIT) in the Global Cybersecurity Institute and Department of Software Engineering. I am currently funded by a [Microsoft PhD Fellowship](https://www.rit.edu/news/graduate-student-receives-prestigious-microsoft-fellowship){:target="_blank"}, awarded in 2019.
 
 ## Research Interests
 Using **mixed empirical software engineering research** methods, I aim to **produce supportive, actionable resources and insights for developers and teams driven by observation of real practices and investigations into the sociotechnical factors** that affect each lifecycle phase. 
@@ -26,17 +26,17 @@ I am particularly interested in:
 
 To study development practices, I build **automated tools to mine and analyze artifacts from software repositories** and use **inductive analysis techniques** to systematically develop theories and synthesize data into forms usable by developers. Further, I conduct **interviews and human subject evaluations** to understand developer's perspectives as well as validate the usefulness and accuracy of my research outcomes. 
 ## Publications
-**Danielle Gonzalez**, Thomas Zimmermann,
+:new: **Danielle Gonzalez**, Thomas Zimmermann,
 Patrice Godefroid, Max Schäfer. *"Anomalicious: Automated Detection of
-Anomalous and Potentially Malicious Commits on GitHub\"* **[To Appear]** 43rd IIEEE/ACM International Conference on Software
-Engineering (SEiP Track), May 23--29, 2021. 
+Anomalous and Potentially Malicious Commits on GitHub\"* *[To Appear]* 43rd IIEEE/ACM International Conference on Software
+Engineering (SEiP Track), May 23--29, 2021. [Preprint](https://conf.researchr.org/details/icse-2021/icse-2021-Software-Engineering-in-Practice/17/Anomalicious-Automated-Detection-of-Anomalous-and-Potentially-Malicious-Commits-on-G){:target="_blank"}
 
 Devjeet Roy, Ziyi Zhang, Maggie Ma, Venera
 Arnaoudova, Annibale Panichella, Sebastiano Panichella, **Danielle
 Gonzalez**, and Mehdi Mirakhorli. *"DeepTC-Enhancer: Improving the
 Readability of Automatically Generated Tests.\"* In 35th IEEE/ACM
 International Conference on Automated Software Engineering, September
-21--25, 2020. ACM, New York, NY, USA, 12 pages. 2020. [Preprint](http://veneraarnaoudova.com/wp-content/uploads/2020/09/2020-ASE-PREPRINT-DeepTC-Enhancer-Improving-the-Readability-of-Automatically-Generated-Tests.pdf){:target="_blank"}
+21--25, 2020. ACM, New York, NY, USA, 12 pages. 2020. [Preprint](http://veneraarnaoudova.com/wp-content/uploads/2020/09/2020-ASE-PREPRINT-DeepTC-Enhancer-Improving-the-Readability-of-Automatically-Generated-Tests.pdf){:target="_blank"}, [Paper](https://ieeexplore.ieee.org/document/9285992){:target="_blank"}, [Supplement](https://github.com/devjeetr/DeepTC-Enhancer-Improving-the-Readability-of-Automatically-Generated-Tests){:target="_blank"}
 
 **Danielle Gonzalez**, Thomas
 Zimmermann, and Nachiappan Nagappan. *"The State of the ML-universe: 10
