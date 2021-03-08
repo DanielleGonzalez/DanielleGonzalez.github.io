@@ -29,7 +29,7 @@ To study development practices, I build **automated tools to mine and analyze ar
 :new: **Danielle Gonzalez**, Thomas Zimmermann,
 Patrice Godefroid, Max Schäfer. *"Anomalicious: Automated Detection of
 Anomalous and Potentially Malicious Commits on GitHub\"* *[To Appear]* 43rd IIEEE/ACM International Conference on Software
-Engineering (SEiP Track), May 23--29, 2021. [Preprint](https://conf.researchr.org/details/icse-2021/icse-2021-Software-Engineering-in-Practice/17/Anomalicious-Automated-Detection-of-Anomalous-and-Potentially-Malicious-Commits-on-G){:target="_blank"}
+Engineering (SEiP Track), May 23--29, 2021. [Preprint](https://arxiv.org/abs/2103.03846){:target="_blank"}
 
 Devjeet Roy, Ziyi Zhang, Maggie Ma, Venera
 Arnaoudova, Annibale Panichella, Sebastiano Panichella, **Danielle
