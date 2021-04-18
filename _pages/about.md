@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-# I am on the 2021 job market!
-
 [Curriculum Vitae](files/DanielleGonzalez_Feb2021_CV.pdf){:target="_blank"}
 
 My name is **Danielle Gonzalez** (She/Her) and I am a PhD candidate at Rochester Institute of Technology (RIT) in the Global Cybersecurity Institute and Department of Software Engineering. I am currently funded by a [Microsoft PhD Fellowship](https://www.rit.edu/news/graduate-student-receives-prestigious-microsoft-fellowship){:target="_blank"}, awarded in 2019.
