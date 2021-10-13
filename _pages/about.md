@@ -10,7 +10,8 @@ redirect_from:
 
 [Curriculum Vitae](files/DanielleGonzalez_Feb2021_CV.pdf){:target="_blank"}
 
-Hello. My name is **Dr. Danielle Gonzalez** (She/Her). I am a Software Engineer at Microsoft. I have a PhD from Rochester Institute of Technology and was a 2019 Microsoft PhD Fellow.
+Hello. My name is **Dr. Danielle Gonzalez** (She/Her). I am a Software Engineer at Microsoft. <br>
+I have a PhD from Rochester Institute of Technology and was a 2019 Microsoft PhD Fellow.
 
 ## Research Interests
 I conduct **mixed-methods empirical software engineering research** driven by analysis of engineering artifacts and processes to produce actionable resources and insights for developers and teams. I have a special interest in developing techniques to analyze sociotechnical factors of software engineering and creating tools for developers that incorporate these factors. 
