@@ -18,9 +18,9 @@ I conduct **mixed-methods empirical software engineering research** driven by an
 
 My prior work and ongoing interests focus on:
  - Secure Software Design and Development
+ - Creating Tools for Developers
  - Human Factors in SE / Behavioral SE
  - Mining Software Repositories
- - Creating Tools for Developers
  - Security Unit & Integration Testing (dissertation topic)
  - Vulnerability Management
 
