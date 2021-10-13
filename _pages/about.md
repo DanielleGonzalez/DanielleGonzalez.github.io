@@ -13,14 +13,14 @@ redirect_from:
 Hello. My name is **Dr. Danielle Gonzalez** (She/Her). Currently, I am a Software Engineer at Microsoft. I have a PhD in Software Engineering from Rochester Institute of Technology and was a 2019 Microsoft PhD Fellow.
 
 ## Research Interests
-Using **mixed empirical software engineering research** methods, I aim to **produce supportive, actionable resources and insights for developers and teams driven by observation of real practices and investigations into the sociotechnical factors** that affect each lifecycle phase. 
+I conduct **mixed-methods empirical software engineering research** driven by analysis of engineering artifacts and processes to produce actionable resources and insights for developers and teams. I have a special interest in developing techniques to analyze sociotechnical factors of software engineering and creating tools for developers that incorporate these factors. 
 
-I am particularly interested in:
- - Software (Unit & Integration) Testing 
- - Secure Software Design, Development, & Testing
- - Vulnerability Management
+My prior work and ongoing interests focus on:
+ - Secure Software Design and Development
  - Human Factors in SE / Behavioral SE
  - Mining Software Repositories
+ - Security Unit & Integration Testing (dissertation topic)
+ - Vulnerability Management
 
 ## Publications
 :new: **Danielle Gonzalez**, Paola Peralta Perez, Mehdi Mirakhorli. *"Barriers to Shift-Left Security: The Unique Pain Points of Writing Automated Tests Involving Security Controls."* In Proceedings of the 15th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM). 2021. [Paper](https://doi.org/10.1145/3475716.3475786){:target="_blank"}
