@@ -20,6 +20,7 @@ My prior work and ongoing interests focus on:
  - Secure Software Design and Development
  - Human Factors in SE / Behavioral SE
  - Mining Software Repositories
+ - Creating Tools for Developers
  - Security Unit & Integration Testing (dissertation topic)
  - Vulnerability Management
 
