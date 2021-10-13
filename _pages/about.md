@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-[Curriculum Vitae](files/DanielleGonzalez_Feb2021_CV.pdf){:target="_blank"}
-
 Hello. My name is **Dr. Danielle Gonzalez** (She/Her). I am a Software Engineer at Microsoft. <br>
 I have a PhD from Rochester Institute of Technology and was a 2019 Microsoft PhD Fellow.
 
