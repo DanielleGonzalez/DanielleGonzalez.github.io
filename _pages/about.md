@@ -30,7 +30,7 @@ My prior work and ongoing interests focus on:
 **Danielle Gonzalez**, Thomas Zimmermann,
 Patrice Godefroid, Max Schäfer. *"Anomalicious: Automated Detection of
 Anomalous and Potentially Malicious Commits on GitHub\"* In Proceedings of the 43rd IIEEE/ACM International Conference on Software
-Engineering (SEiP Track), May 23--29, 2021. [Paper](https://doi.org/10.1109/ICSE-SEIP52600.2021.00035){:target="_blank"},[Preprint](https://arxiv.org/abs/2103.03846){:target="_blank"}
+Engineering (SEiP Track), May 23--29, 2021. [Paper](https://doi.org/10.1109/ICSE-SEIP52600.2021.00035){:target="_blank"}, [Preprint](https://arxiv.org/abs/2103.03846){:target="_blank"}
 
 Devjeet Roy, Ziyi Zhang, Maggie Ma, Venera
 Arnaoudova, Annibale Panichella, Sebastiano Panichella, **Danielle
