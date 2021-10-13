@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello. My name is **Dr. Danielle Gonzalez** (She/Her). I am a Software Engineer at Microsoft. <br>
+## Hello
+My name is **Dr. Danielle Gonzalez** (She/Her). I am a Software Engineer at Microsoft. <br>
 I have a PhD from Rochester Institute of Technology and was a 2019 Microsoft PhD Fellow.
 
 ## Research Interests
