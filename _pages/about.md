@@ -10,7 +10,7 @@ redirect_from:
 
 [Curriculum Vitae](files/DanielleGonzalez_Feb2021_CV.pdf){:target="_blank"}
 
-My name is **Danielle Gonzalez** (She/Her) and I am a PhD candidate at Rochester Institute of Technology (RIT) in the Global Cybersecurity Institute and Department of Software Engineering. I am currently funded by a [Microsoft PhD Fellowship](https://www.rit.edu/news/graduate-student-receives-prestigious-microsoft-fellowship){:target="_blank"}, awarded in 2019.
+Hi! I am **Dr. Danielle Gonzalez** (She/Her), a Software Engineer at Microsoft. I have a PhD in Software Engineering from Rochester Institute of Technology and was a 2019 Microsoft PhD Fellow.
 
 ## Research Interests
 Using **mixed empirical software engineering research** methods, I aim to **produce supportive, actionable resources and insights for developers and teams driven by observation of real practices and investigations into the sociotechnical factors** that affect each lifecycle phase. 
@@ -22,17 +22,18 @@ I am particularly interested in:
  - Human Factors in SE / Behavioral SE
  - Mining Software Repositories
 
-To study development practices, I build **automated tools to mine and analyze artifacts from software repositories** and use **inductive analysis techniques** to systematically develop theories and synthesize data into forms usable by developers. Further, I conduct **interviews and human subject evaluations** to understand developer's perspectives as well as validate the usefulness and accuracy of my research outcomes. 
 ## Publications
-:new: **Danielle Gonzalez**, Thomas Zimmermann,
+:new: **Danielle Gonzalez**, Paola Peralta Perez, Mehdi Mirakhorli. *"Barriers to Shift-Left Security: The Unique Pain Points of Writing Automated Tests Involving Security Controls."* In Proceedings of the 15th ACM/IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM). 2021. [Paper](https://doi.org/10.1145/3475716.3475786){:target="_blank"}
+
+**Danielle Gonzalez**, Thomas Zimmermann,
 Patrice Godefroid, Max Schäfer. *"Anomalicious: Automated Detection of
-Anomalous and Potentially Malicious Commits on GitHub\"* *[To Appear]* 43rd IIEEE/ACM International Conference on Software
-Engineering (SEiP Track), May 23--29, 2021. [Preprint](https://arxiv.org/abs/2103.03846){:target="_blank"}
+Anomalous and Potentially Malicious Commits on GitHub\"* In Proceedings of the 43rd IIEEE/ACM International Conference on Software
+Engineering (SEiP Track), May 23--29, 2021. [Paper](https://doi.org/10.1109/ICSE-SEIP52600.2021.00035){:target="_blank"},[Preprint](https://arxiv.org/abs/2103.03846){:target="_blank"}
 
 Devjeet Roy, Ziyi Zhang, Maggie Ma, Venera
 Arnaoudova, Annibale Panichella, Sebastiano Panichella, **Danielle
 Gonzalez**, and Mehdi Mirakhorli. *"DeepTC-Enhancer: Improving the
-Readability of Automatically Generated Tests.\"* In 35th IEEE/ACM
+Readability of Automatically Generated Tests.\"* In Proceedings of the 35th IEEE/ACM
 International Conference on Automated Software Engineering, September
 21--25, 2020. ACM, New York, NY, USA, 12 pages. 2020. [Preprint](http://veneraarnaoudova.com/wp-content/uploads/2020/09/2020-ASE-PREPRINT-DeepTC-Enhancer-Improving-the-Readability-of-Automatically-Generated-Tests.pdf){:target="_blank"}, [Paper](https://ieeexplore.ieee.org/document/9285992){:target="_blank"}, [Supplement](https://github.com/devjeetr/DeepTC-Enhancer-Improving-the-Readability-of-Automatically-Generated-Tests){:target="_blank"}
 
@@ -50,12 +51,12 @@ Repositories, pp. 232-242. 2020. [Paper](https://doi.org/10.1145/3379597.3387471
 **Danielle Gonzalez**, Fawaz Alhenaki, and
 Mehdi Mirakhorli. *"Architectural security weaknesses in industrial
 control systems (ICS) an empirical study based on disclosed software
-vulnerabilities.\"* In 2019 IEEE International Conference on Software
+vulnerabilities.\"* In Proceedings of the 2019 IEEE International Conference on Software
 Architecture (ICSA), pp. 31-40. IEEE, 2019. [Paper](https://doi.org/10.1109/icsa.2019.00012){:target="_blank"}, [IEEE Software Blog Post](http://blog.ieeesoftware.org/2019/01/architectural-security-weaknesses-in.html){:target="_blank"}, [Slides](https://www.slideshare.net/DanielleGonzalez25/icsa-2019-architectural-security-weaknesses-in-industrial-control-systems-138619072){:target="_blank"}, [Supplement](https://zenodo.org/record/3726261){:target="_blank"}
 
 **Danielle Gonzalez**, Holly Hastings,
 and Mehdi Mirakhorli. *"Automated Characterization of Software
-Vulnerabilities.\"* In 2019 IEEE International Conference on Software
+Vulnerabilities.\"* In Proceedings of the 2019 IEEE International Conference on Software
 Maintenance and Evolution (ICSME), pp. 135-139. IEEE, 2019. [Paper](https://doi.org/10.1109/icsme.2019.00023){:target="_blank"}, [Preprint](https://arxiv.org/abs/1909.13693){:target="_blank"}
 
 **Danielle Gonzalez**, Suzanne
@@ -68,12 +69,12 @@ ACM SIGSOFT International Workshop on NLP for Software Engineering, pp.
 Andrew Popovich, Mehdi Mirakhorli, and Mei Nagappan. *"A large-scale
 study on the usage of testing patterns that address maintainability
 attributes: patterns for ease of modification, diagnoses, and
-comprehension.\"* In 2017 IEEE/ACM 14th International Conference on
+comprehension.\"* In Proceedings of the IEEE/ACM 14th International Conference on
 Mining Software Repositories (MSR), pp. 391-401. IEEE, 2017. [Paper](https://doi.org/10.1109/msr.2017.8){:target="_blank"}, [Preprint](https://arxiv.org/pdf/1704.08412){:target="_blank"}
 
 **Danielle Gonzalez**, Andrew
 Popovich, and Mehdi Mirakhorli. *"TestEX: A Search Tool for Finding and
-Retrieving Example Unit Tests from Open Source Projects.\"* In 2016 IEEE
+Retrieving Example Unit Tests from Open Source Projects.\"* In Proceedings of the 2016 IEEE
 International Symposium on Software Reliability Engineering Workshops
 (ISSREW), pp. 153-159. IEEE, 2016. [Paper](https://doi.org/10.1109/issrew.2016.41){:target="_blank"}, [Demo Video](https://www.youtube.com/watch?v=KHy1Yo33Dj4){:target="_blank"}
 
