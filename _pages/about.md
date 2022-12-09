@@ -27,7 +27,7 @@ I conduct **mixed-methods empirical software engineering research** driven by an
 **Danielle Gonzalez**, Thomas Zimmermann,
 Patrice Godefroid, Max Schäfer. *"Anomalicious: Automated Detection of
 Anomalous and Potentially Malicious Commits on GitHub\"* In Proceedings of the 43rd IIEEE/ACM International Conference on Software
-Engineering (SEiP Track), May 23--29, 2021. [Paper](https://doi.org/10.1109/ICSE-SEIP52600.2021.00035){:target="_blank"}, [Preprint](https://arxiv.org/abs/2103.03846){:target="_blank"} [Recorded Talk](https://www.youtube.com/watch?v=bY8rvSMhowg){:target="_blank"}
+Engineering (SEiP Track), May 23--29, 2021. [Paper](https://doi.org/10.1109/ICSE-SEIP52600.2021.00035){:target="_blank"}, [Preprint](https://arxiv.org/abs/2103.03846){:target="_blank"}, [Recorded Talk](https://www.youtube.com/watch?v=bY8rvSMhowg){:target="_blank"}
  
  **NOTICE**: ⚠️ I have received many requests for the code and data used for the Anomalicious project. Unfortunately, these cannot be shared due to Microsoft licensing. Please **stop** emailing me about this! 🙃
 
