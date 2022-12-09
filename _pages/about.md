@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ## Hello
-My name is **Dr. Danielle Gonzalez** (She/Her). I am a Software Engineer at Microsoft. I have a PhD from Rochester Institute of Technology and was a 2019 Microsoft Research PhD Fellow. I am on [Twitter](https://twitter.com/dngonza){:target="_blank"} and <a rel="me" href="https://mastodon.world/@dngonza">Mastodon</a> as dngonza. _Email_: firstname dot lastname at microsoft dot com  <br>
+My name is **Dr. Danielle Gonzalez** (She/Her). I am a Software Engineer at Microsoft. I have a PhD from Rochester Institute of Technology and was a 2019 Microsoft Research PhD Fellow. You can find me on [Twitter](https://twitter.com/dngonza){:target="_blank"} and <a rel="me" href="https://mastodon.world/@dngonza">Mastodon</a> as dngonza. _Email_: firstname dot lastname at microsoft dot com  <br>
 
 ## Research Interests
 Topics of my prior work and ongoing interest are:
