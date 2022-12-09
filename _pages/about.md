@@ -32,7 +32,7 @@ Patrice Godefroid, Max Schäfer. *"Anomalicious: Automated Detection of
 Anomalous and Potentially Malicious Commits on GitHub\"* In Proceedings of the 43rd IIEEE/ACM International Conference on Software
 Engineering (SEiP Track), May 23--29, 2021. [Paper](https://doi.org/10.1109/ICSE-SEIP52600.2021.00035){:target="_blank"}, [Preprint](https://arxiv.org/abs/2103.03846){:target="_blank"} 
  
-    ⚠️ **NOTICE**: I have received many requests for the code and data used for the Anomalicious project. Unfortunately, these cannot be shared due to Microsoft licensing. Please **stop** emailing me about this! 🙃
+⚠️ **NOTICE**: I have received many requests for the code and data used for the Anomalicious project. Unfortunately, these cannot be shared due to Microsoft licensing. Please **stop** emailing me about this! 🙃
 
 Devjeet Roy, Ziyi Zhang, Maggie Ma, Venera
 Arnaoudova, Annibale Panichella, Sebastiano Panichella, **Danielle
